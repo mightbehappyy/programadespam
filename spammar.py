@@ -1,4 +1,3 @@
-from re import I
 import pyautogui as pg
 import time
 
